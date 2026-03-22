@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Data Scientist",
+    "skills": ["python", "machine learning", "statistics", "pandas"]
+  },
+  {
+    "role": "Frontend Developer",
+    "skills": ["html", "css", "javascript", "react"]
+  },
+  {
+    "role": "Backend Developer",
+    "skills": ["python", "fastapi", "databases", "api"]
+  }
+]
