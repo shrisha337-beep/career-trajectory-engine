@@ -1,0 +1,12 @@
+{
+  "Backend Developer": ["Senior Backend Developer", "System Architect"],
+  "Frontend Developer": ["Senior Frontend Developer", "UI Architect"],
+  "Data Scientist": ["Senior Data Scientist", "ML Engineer"],
+  "Product Manager": ["Senior Product Manager", "Head of Product"],
+  "UX Designer": ["Senior UX Designer", "Design Lead"],
+  "DevOps Engineer": ["Senior DevOps Engineer", "Cloud Architect"],
+  "Mobile Developer": ["Senior Mobile Developer", "Mobile Architect"],
+  "QA Engineer": ["Senior QA Engineer", "Test Architect"],
+  "Data Engineer": ["Senior Data Engineer", "Data Architect"],
+  "Cybersecurity Analyst": ["Senior Cybersecurity Analyst", "Security Architect"]
+}

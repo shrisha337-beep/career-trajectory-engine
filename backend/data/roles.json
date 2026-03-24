@@ -4,11 +4,50 @@
     "skills": ["python", "machine learning", "statistics", "pandas"]
   },
   {
+    "role": "Backend Developer",
+    "skills": ["python", "fastapi", "api", "databases"]
+  },
+  {
     "role": "Frontend Developer",
     "skills": ["html", "css", "javascript", "react"]
   },
   {
-    "role": "Backend Developer",
-    "skills": ["python", "fastapi", "databases", "api"]
-  }
+  "role": "DevOps Engineer",
+  "skills": ["docker", "kubernetes", "ci/cd", "linux"]
+},
+{
+  "role": "AI Engineer",
+  "skills": ["python", "machine learning", "deep learning", "nlp"]
+},
+{
+  "role": "Full Stack Developer",
+  "skills": ["javascript", "react", "node", "databases"]
+},
+{
+  "role": "Product Manager",
+  "skills": ["product management", "roadmapping", "stakeholder management", "agile"]
+},
+{
+  "role": "UX Designer",
+  "skills": ["user research", "wireframing", "prototyping", "usability testing"]
+},
+{
+  "role": "Mobile Developer",
+  "skills": ["swift", "kotlin", "react native", "mobile development"]
+},
+{
+  "role": "QA Engineer",
+  "skills": ["test automation", "selenium", "cypress", "manual testing"]
+},
+{
+  "role": "Data Engineer",
+  "skills": ["python", "spark", "airflow", "data pipelines"]
+},
+{
+  "role": "Cybersecurity Analyst",
+  "skills": ["network security", "threat analysis", "incident response", "penetration testing"]
+}
 ]
+
+
+
